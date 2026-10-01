@@ -4,7 +4,9 @@
 
 ## 🖼️ Dashboard Preview
 
-<img width="980" height="577" alt="raw data img" src="https://github.com/user-attachments/assets/f421e9af-8a36-4e40-95d1-d7986ed358e6" />
+<img width="977" height="576" alt="raw data image" src="https://github.com/user-attachments/assets/3881a9aa-29ae-4cce-adb3-9be5b48a5999" />
+
+
 
 
 ## 📌 Project Overview
